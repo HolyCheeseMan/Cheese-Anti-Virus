@@ -1,4 +1,5 @@
 Cheese Anti-Virus is a TROLL/FAKE anti-virus!
+
 Let the text above be a warning as to it does NOT scan viruses and clear them.
 
 What the installer does: installs files into a hidden folder in appdata call .HolyCheeseMan
